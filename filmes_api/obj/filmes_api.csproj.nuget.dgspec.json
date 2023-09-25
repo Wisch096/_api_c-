@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Qualidade_CT_3\\source\\repos\\filmes_api\\filmes_api\\filmes_api.csproj": {}
+    "C:\\Users\\Qualidade_CT_3\\source\\repos\\filmes_api\\filmes_api\\filmes_api.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Qualidade_CT_3\\source\\repos\\filmes_api\\filmes_api\\filmes_api.csproj": {
+    "C:\\Users\\Qualidade_CT_3\\source\\repos\\filmes_api\\filmes_api\\filmes_api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Qualidade_CT_3\\source\\repos\\filmes_api\\filmes_api\\filmes_api.csproj",
+        "projectUniqueName": "C:\\Users\\Qualidade_CT_3\\source\\repos\\filmes_api\\filmes_api\\filmes_api.csproj",
         "projectName": "filmes_api",
-        "projectPath": "c:\\Users\\Qualidade_CT_3\\source\\repos\\filmes_api\\filmes_api\\filmes_api.csproj",
+        "projectPath": "C:\\Users\\Qualidade_CT_3\\source\\repos\\filmes_api\\filmes_api\\filmes_api.csproj",
         "packagesPath": "C:\\Users\\Qualidade_CT_3\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Qualidade_CT_3\\source\\repos\\filmes_api\\filmes_api\\obj\\",
+        "outputPath": "C:\\Users\\Qualidade_CT_3\\source\\repos\\filmes_api\\filmes_api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Qualidade_CT_3\\AppData\\Roaming\\NuGet\\NuGet.Config",
